@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-[![fwzhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwzhuang)](https://github.com/fwzhuang/github-readme-stats)
-**fwzhuang/fwzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![fwzhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwzhuang&show_icons=true&theme=radical&count_private=true)](https://github.com/fwzhuang/github-readme-stats)
+
+<--**fwzhuang/fwzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- -->
 

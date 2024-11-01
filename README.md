@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![fwzhuang's GitHub stats](https://github-readme-stats.vercel.app/api?username=fwzhuang&show_icons=true&theme=radical&count_private=true)
+[![fwzhuang's github stats](https://github-readme-stats.vercel.app/api?username=fwzhuang&&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fwzhuang/fwzhuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
